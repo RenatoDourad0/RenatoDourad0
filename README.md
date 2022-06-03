@@ -1,9 +1,9 @@
 ### Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoDourad0&show_icons=true"/>
 </a>
 <hr width='200px' >
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoDourad0"/>
 </a>
 <!--
