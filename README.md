@@ -2,7 +2,7 @@
 
 Projects worth mentioning:
 - [:sound: EasyBank landing page](https://github.com/RenatoDourad0/Courses/tree/master/frontend_mentor/easybank-landing-page-master)
-- [:sound: Blogr landin page](https://github.com/RenatoDourad0/Courses/tree/master/frontend_mentor/blogr-landing-page-main)
+- [:sound: Blogr landing page](https://github.com/RenatoDourad0/Courses/tree/master/frontend_mentor/blogr-landing-page-main)
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoDourad0&show_icons=true"/>
 </a>
