@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-Projects worth mentioning:
+### Projects worth mentioning:
 - [:sound: EasyBank landing page](https://github.com/RenatoDourad0/Courses/tree/master/frontend_mentor/easybank-landing-page-master)
 - [:sound: Blogr landing page](https://github.com/RenatoDourad0/Courses/tree/master/frontend_mentor/blogr-landing-page-main)
 <a href="#">
