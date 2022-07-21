@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### highlights  :sound:
+### Highlights  :sound:
 - [EasyBank landing page](https://github.com/RenatoDourad0/Courses/tree/master/frontend_mentor/easybank-landing-page-master)
 - [Blogr landing page](https://github.com/RenatoDourad0/Courses/tree/master/frontend_mentor/blogr-landing-page-main)
 - [launch countdown timer](https://github.com/RenatoDourad0/Courses/tree/master/frontend_mentor/launch-countdown-timer-main)
