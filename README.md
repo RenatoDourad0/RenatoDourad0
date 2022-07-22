@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### Highlights  :sound:
-- [EasyBank landing page](https://github.com/RenatoDourad0/Courses/tree/master/frontend_mentor/easybank-landing-page-master)
-- [Blogr landing page](https://github.com/RenatoDourad0/Courses/tree/master/frontend_mentor/blogr-landing-page-main)
-- [launch countdown timer](https://github.com/RenatoDourad0/Courses/tree/master/frontend_mentor/launch-countdown-timer-main)
+  - [:computer: Blogr landing page](https://github.com/RenatoDourad0/Project_Blogr_Landing_Page_FrontendMentor)
+  - [:computer: EasyBank landing page](https://github.com/RenatoDourad0/Project_Easybank_Landing_Page_FrontendMentor)
+  - [:computer: Launch Countdown Timer](https://github.com/RenatoDourad0/Project_Launch_Countdown_Timer_FrontendMentor)
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoDourad0&show_icons=true"/>
 </a>
