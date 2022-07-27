@@ -6,6 +6,7 @@
   - [:computer: Launch Countdown Timer](https://github.com/RenatoDourad0/Project_Launch_Countdown_Timer_FrontendMentor)
   - [:computer: Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)
   - [:computer: Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)
+  - [:computer: Trynfo](https://github.com/RenatoDourad0/Project_Tryunfo_trybe)
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoDourad0&show_icons=true"/>
 </a>
