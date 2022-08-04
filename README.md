@@ -7,6 +7,7 @@
   - [:computer: Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)
   - [:computer: Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)
   - [:computer: Trynfo](https://github.com/RenatoDourad0/Project_Tryunfo_trybe)
+  - [:computer: TrybeTunes](https://github.com/RenatoDourad0/Project_TrybeTunes)
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoDourad0&show_icons=true"/>
 </a>
