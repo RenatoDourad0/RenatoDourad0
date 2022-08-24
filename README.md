@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a development student based on Belo Horizonte, Brazil. ⛰️
+
 ### Highlights  :sound:
   - [:computer: Blogr landing page](https://github.com/RenatoDourad0/Project_Blogr_Landing_Page_FrontendMentor)
   - [:computer: EasyBank landing page](https://github.com/RenatoDourad0/Project_Easybank_Landing_Page_FrontendMentor)
@@ -8,6 +10,29 @@
   - [:computer: Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)
   - [:computer: Trynfo](https://github.com/RenatoDourad0/Project_Tryunfo_trybe)
   - [:computer: TrybeTunes](https://github.com/RenatoDourad0/Project_TrybeTunes)
+  
+  ### Stack
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![nodeJS]( https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  
+  <!--
+  Jest
+  RTL
+  -->
+  
+  ### Contacts
+  <a href="www.linkedin.com/in/renato-dourado-b1b301112">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  ### Github stats
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoDourad0&show_icons=true"/>
 </a>
@@ -15,6 +40,8 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoDourad0"/>
 </a>
+
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoDourad0&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoDourad0)](https://github.com/anuraghazra/github-readme-stats)
