@@ -28,7 +28,7 @@ I'm a development student based on Belo Horizonte, Brazil. ⛰️
   -->
   
   ### Contacts
-  <a href="www.linkedin.com/in/renato-dourado-b1b301112">
+  <a href="https://www.linkedin.com/in/renato-dourado-b1b301112/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
