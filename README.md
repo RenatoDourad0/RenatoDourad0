@@ -10,6 +10,7 @@ I'm a development student based on Belo Horizonte, Brazil. ⛰️
   - [:computer: Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)
   - [:computer: Trynfo](https://github.com/RenatoDourad0/Project_Tryunfo_trybe)
   - [:computer: TrybeTunes](https://github.com/RenatoDourad0/Project_TrybeTunes)
+  - [:computer: Trybe Wallet](https://github.com/RenatoDourad0/Trybe_Wallet_Project)_
   
   ### Stack
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
