@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm a web development student based on Belo Horizonte, Brazil. ⛰️
+I'm a web development student based on Belo Horizonte, Brazil ⛰️
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning frontend web development with React 
 - 📫 Reach me on [linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)
 
 ### Highlights  :sound:
@@ -10,11 +10,8 @@ I'm a web development student based on Belo Horizonte, Brazil. ⛰️
   - [:computer: EasyBank landing page](https://github.com/RenatoDourad0/Project_Easybank_Landing_Page_FrontendMentor)
   - [:computer: Launch Countdown Timer](https://github.com/RenatoDourad0/Project_Launch_Countdown_Timer_FrontendMentor)
   - [:computer: Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)
-  - [:computer: Solar System](https://github.com/RenatoDourad0/Project_Solar_System_Trybe)
-  - [:computer: Trynfo](https://github.com/RenatoDourad0/Project_Tryunfo_trybe)
   - [:computer: TrybeTunes](https://github.com/RenatoDourad0/Project_TrybeTunes)
   - [:computer: Trybe Wallet](https://github.com/RenatoDourad0/Trybe_Wallet_Project)
-  - [:computer: Trivia Game](https://github.com/RenatoDourad0/Project_Trivia_Game)
     
   ### Stack
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
