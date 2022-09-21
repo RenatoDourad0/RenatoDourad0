@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm a web development student based on Belo Horizonte, Brazil  
-## ⛰️  🧗‍  🥾  ☕  ✨  🎥
+I'm a web development student based on Belo Horizonte, Brazil ⛰️
+##  🧗‍ 🥾  ☕  🪐  🐶 🛫
 
-- 🌱 Currently learning frontend web development with React 
+- 📚 Currently learning frontend web development with React 
 - 📫 Reach me on [linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)
 
 ###  :sound: Highlights 
@@ -30,14 +30,15 @@ I'm a web development student based on Belo Horizonte, Brazil
   -->
 
   ### Github stats
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoDourad0&show_icons=true"/>
-</a>
-<hr width='200px' >
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoDourad0"/>
-</a>
-
+<div>
+  <a href="#">
+    <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoDourad0&layout=compact"/>
+  </a>
+   &nbsp &nbsp &nbsp &nbsp &nbsp
+  <a href="#">
+    <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=RenatoDourad0&hide_rank=true&hide=stars,contribs"/>
+  </a>
+</div>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoDourad0&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
