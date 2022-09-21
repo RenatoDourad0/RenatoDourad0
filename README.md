@@ -1,18 +1,17 @@
 ## Hi there 👋
 
-I'm a web development student based on Belo Horizonte, Brazil
-
-⛰️  🧗‍  🥾  ☕  ✨  🎥
+I'm a web development student based on Belo Horizonte, Brazil  
+## ⛰️  🧗‍  🥾  ☕  ✨  🎥
 
 - 🌱 Currently learning frontend web development with React 
 - 📫 Reach me on [linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)
 
-### Highlights  :sound:
-  - [:computer: Blogr landing page](https://github.com/RenatoDourad0/Project_Blogr_Landing_Page_FrontendMentor)
-  - [:computer: Launch Countdown Timer](https://github.com/RenatoDourad0/Project_Launch_Countdown_Timer_FrontendMentor)
-  - [:computer: Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)
-  - [:computer: TrybeTunes](https://github.com/RenatoDourad0/Project_TrybeTunes)
-  - [:computer: Trybe Wallet](https://github.com/RenatoDourad0/Trybe_Wallet_Project)
+###  :sound: Highlights 
+  - [Blogr landing page](https://github.com/RenatoDourad0/Project_Blogr_Landing_Page_FrontendMentor)
+  - [Launch Countdown Timer](https://github.com/RenatoDourad0/Project_Launch_Countdown_Timer_FrontendMentor)
+  - [Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)
+  - [TrybeTunes](https://github.com/RenatoDourad0/Project_TrybeTunes)
+  - [Trybe Wallet](https://github.com/RenatoDourad0/Trybe_Wallet_Project)
     
   ### Stack
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
