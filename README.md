@@ -31,12 +31,7 @@ I'm a web development student based on Belo Horizonte, Brazil. ⛰️
   Jest
   RTL
   -->
-  
-  ### Contacts
-  <a target="_blank" href="https://br.linkedin.com/in/renato-dourado-b1b301112/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
+
   ### Github stats
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoDourad0&show_icons=true"/>
