@@ -7,7 +7,6 @@ I'm a web development student based on Belo Horizonte, Brazil ⛰️
 
 ### Highlights  :sound:
   - [:computer: Blogr landing page](https://github.com/RenatoDourad0/Project_Blogr_Landing_Page_FrontendMentor)
-  - [:computer: EasyBank landing page](https://github.com/RenatoDourad0/Project_Easybank_Landing_Page_FrontendMentor)
   - [:computer: Launch Countdown Timer](https://github.com/RenatoDourad0/Project_Launch_Countdown_Timer_FrontendMentor)
   - [:computer: Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)
   - [:computer: TrybeTunes](https://github.com/RenatoDourad0/Project_TrybeTunes)
