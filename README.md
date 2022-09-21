@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm a web development student based on Belo Horizonte, Brazil ⛰️
+<strong>I'm a web development student based on Belo Horizonte, Brazil</strong> ⛰️
 ##  🧗‍ 🥾  ☕  🪐  🐶 🛫
 
 - 📚 Currently learning frontend web development with React 
-- 📫 Reach me on [linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)
+- 📫 Reach me on <strong>[linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)</strong>
 
 ###  :sound: Highlights 
   - [Blogr landing page](https://github.com/RenatoDourad0/Project_Blogr_Landing_Page_FrontendMentor)
