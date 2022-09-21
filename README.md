@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm a development student based on Belo Horizonte, Brazil. ⛰️
+I'm a web development student based on Belo Horizonte, Brazil. ⛰️
+
+- 🌱 I’m currently learning
+- 📫 How to reach me: [linkedin]()
 
 ### Highlights  :sound:
   - [:computer: Blogr landing page](https://github.com/RenatoDourad0/Project_Blogr_Landing_Page_FrontendMentor)
