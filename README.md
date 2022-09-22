@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <strong>I'm a web development student based on Belo Horizonte, Brazil</strong> ⛰️
-##  🧗‍ 🥾  ☕  🪐  🐶 🛫
+#  🧗‍ 🥾  ☕  🪐  🐶 🛫
 
 - 📚 Currently learning frontend web development with React 
 - 📫 Reach me on <strong>[linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)</strong>
