@@ -36,7 +36,7 @@
   </a>
    &nbsp &nbsp &nbsp &nbsp &nbsp
   <a href="#">
-    <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=RenatoDourad0&hide_rank=true&hide=stars,contribs&hide_title=true"/>
+    <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=RenatoDourad0&hide_rank=true&hide=stars,contribs&hide_title=true&count_private=true"/>
   </a>
 </div>
 
