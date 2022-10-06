@@ -12,6 +12,7 @@
   - [Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)
   - [TrybeTunes](https://github.com/RenatoDourad0/Project_TrybeTunes)
   - [Trybe Wallet](https://github.com/RenatoDourad0/Trybe_Wallet_Project)
+  - [Irecipe](https://github.com/RenatoDourad0/Project_Irecipe)
     
   ### Stack
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
