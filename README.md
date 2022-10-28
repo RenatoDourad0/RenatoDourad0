@@ -25,8 +25,8 @@
   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![nodeJS]( https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![MySQL]( https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black)
-  ![SQL]( https://img.shields.io/badge/sql-CA4245?style=for-the-badge&logo=sql&logoColor=white)
+  ![MySQL]( https://img.shields.io/badge/mysql-lightblue?style=for-the-badge&logo=mysql&logoColor=black)
+  ![Docker]( https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
   
   <!--
   Jest
