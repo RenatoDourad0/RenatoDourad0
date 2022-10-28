@@ -3,7 +3,7 @@
 <strong>I'm a web development student based on Belo Horizonte, Brazil</strong> ⛰️
 #  🧗‍ 🥾  ☕  🪐  🐶 🛫
 
-- 📚 Currently learning frontend web development with React 
+- 📚 Currently learning backend web development with Express 
 - 📫 Reach me on <strong>[linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)</strong>
 
 ###  :sound: Highlights 
@@ -27,6 +27,7 @@
   ![nodeJS]( https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![MySQL]( https://img.shields.io/badge/mysql-lightblue?style=for-the-badge&logo=mysql&logoColor=black)
   ![Docker]( https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+  ![Express]( https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
   
   <!--
   Jest
