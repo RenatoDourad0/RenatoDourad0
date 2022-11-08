@@ -1,35 +1,37 @@
 ## Hi there 👋
 
-<strong>I'm a web development student based on Belo Horizonte, Brazil</strong> ⛰️
+<strong>
+My name is Renato and I'm 25 years old. At the beginning of 2022 I made the decision to make a career transition and since then I have been studying, practicing and dedicating myself a lot. Today I'm looking for an opportunity in the web development market.</strong>
+
 #  🧗‍ 🥾  ☕  🪐  🐶 🛫
 
 - 📚 Currently learning backend web development with Express 
 - 📫 Reach me on <strong>[linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)</strong>
 
-###  :sound: Highlights 
+<!-- ###  :sound: Highlights 
   - [Irecipe](https://github.com/RenatoDourad0/Project_Irecipe)
   - [Trybe Wallet](https://github.com/RenatoDourad0/Trybe_Wallet_Project)
   - [TrybeTunes](https://github.com/RenatoDourad0/Project_TrybeTunes)
   - [Shopping Cart](https://github.com/RenatoDourad0/Project_Shopping_Cart_Trybe)
   - [Launch Countdown Timer](https://github.com/RenatoDourad0/Project_Launch_Countdown_Timer_FrontendMentor)
-  - [Blogr landing page](https://github.com/RenatoDourad0/Project_Blogr_Landing_Page_FrontendMentor)
+  - [Blogr landing page](https://github.com/RenatoDourad0/Project_Blogr_Landing_Page_FrontendMentor) -->
 
-  ### Stack
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![git]( https://img.shields.io/badge/git-%23323330?style=for-the-badge&logo=git&logoColor=white)
-  ![EsLint]( https://img.shields.io/badge/EsLint-purple?style=for-the-badge&logo=eslint&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![nodeJS]( https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![MySQL]( https://img.shields.io/badge/mysql-lightblue?style=for-the-badge&logo=mysql&logoColor=black)
-  ![Docker]( https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-  ![Express]( https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
-  
+### Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![git]( https://img.shields.io/badge/git-%23323330?style=for-the-badge&logo=git&logoColor=white)
+![EsLint]( https://img.shields.io/badge/EsLint-purple?style=for-the-badge&logo=eslint&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![nodeJS]( https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL]( https://img.shields.io/badge/mysql-lightblue?style=for-the-badge&logo=mysql&logoColor=black)
+![Docker]( https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Express]( https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
+
   <!--
   Jest
   RTL
