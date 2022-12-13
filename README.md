@@ -5,7 +5,7 @@ My name is Renato and I'm 25 years old. At the beginning of 2022 I made the deci
 
 #  🧗‍ 🥾  ☕  🪐  🐶 🛫
 
-- 📚 Currently learning backend web development with Express 
+- 📚 Currently learning backend web development with js/ts
 - 📫 Reach me on <strong>[linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)</strong>
 
 <!-- ###  :sound: Highlights 
@@ -31,6 +31,13 @@ My name is Renato and I'm 25 years old. At the beginning of 2022 I made the deci
 ![MySQL]( https://img.shields.io/badge/mysql-lightblue?style=for-the-badge&logo=mysql&logoColor=black)
 ![Docker]( https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Express]( https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
+![Sequelize]( https://img.shields.io/badge/sequelize-darkblue?style=for-the-badge&logo=sequelize&logoColor=white)
+![JWT]( https://img.shields.io/badge/JWT-darkred?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Joi]( https://img.shields.io/badge/joi-blue?style=for-the-badge&logo=joi&logoColor=white)
+![Jest]( https://img.shields.io/badge/jest-red?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha]( https://img.shields.io/badge/mocha-brown?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai]( https://img.shields.io/badge/chai-beige?style=for-the-badge&logo=chai&logoColor=black)
+![Railway]( https://img.shields.io/badge/railway-purple?style=for-the-badge&logo=railway&logoColor=white)
 
   <!--
   Jest
