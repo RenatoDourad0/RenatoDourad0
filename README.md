@@ -32,6 +32,7 @@ My name is Renato and I'm 25 years old. At the beginning of 2022 I made the deci
 ![Docker]( https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Express]( https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
 ![Sequelize]( https://img.shields.io/badge/sequelize-darkblue?style=for-the-badge&logo=sequelize&logoColor=white)
+<br />
 ![JWT]( https://img.shields.io/badge/JWT-darkred?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Joi]( https://img.shields.io/badge/joi-blue?style=for-the-badge&logo=joi&logoColor=white)
 ![Jest]( https://img.shields.io/badge/jest-red?style=for-the-badge&logo=jest&logoColor=white)
