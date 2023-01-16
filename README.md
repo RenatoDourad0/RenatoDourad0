@@ -23,11 +23,13 @@ My name is Renato and I'm 25 years old. At the beginning of 2022 I made the deci
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=)
 ![SASS](https://img.shields.io/badge/SASS-%23323330.svg?style=for-the-badge&logo=SASS&logoColor=)
 ![git]( https://img.shields.io/badge/git-%23323330?style=for-the-badge&logo=git&logoColor=)
+<br />
 ![EsLint]( https://img.shields.io/badge/EsLint-%23323330?style=for-the-badge&logo=eslint&logoColor=)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=)
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=)
 ![React Router](https://img.shields.io/badge/React_Router-%23323330?style=for-the-badge&logo=react-router&logoColor=)
 ![Redux](https://img.shields.io/badge/redux-%23323330.svg?style=for-the-badge&logo=redux&logoColor=)
+<br />
 ![nodeJS]( https://img.shields.io/badge/Node.js-%23323330?style=for-the-badge&logo=nodedotjs&logoColor=)
 ![MySQL]( https://img.shields.io/badge/mysql-%23323330?style=for-the-badge&logo=mysql&logoColor=)
 ![Docker]( https://img.shields.io/badge/Docker-%23323330?style=for-the-badge&logo=docker&logoColor=)
