@@ -18,6 +18,7 @@ My name is Renato and I'm 25 years old. At the beginning of 2022 I made the deci
 
 ### Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=)
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=)
 ![SASS](https://img.shields.io/badge/SASS-%23323330.svg?style=for-the-badge&logo=SASS&logoColor=)
