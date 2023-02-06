@@ -42,6 +42,7 @@ My name is Renato and I'm 25 years old. At the beginning of 2022 I made the deci
 ![Mocha]( https://img.shields.io/badge/mocha-%23323330?style=for-the-badge&logo=mocha&logoColor=)
 ![Chai]( https://img.shields.io/badge/chai-%23323330?style=for-the-badge&logo=chai&logoColor=)
 ![Railway]( https://img.shields.io/badge/railway-%23323330?style=for-the-badge&logo=railway&logoColor=)
+![MongoDB]( https://img.shields.io/badge/mongodb-%23323330?style=for-the-badge&logo=mongodb&logoColor=)
 
   <!--
   Jest
