@@ -5,7 +5,7 @@ My name is Renato and I'm 25 years old. At the beginning of 2022 I made the deci
 
 #  🧗‍ 🥾  ☕  🪐  🐶 🛫
 
-- 📚 Currently learning backend web development with Js / Ts
+- 📚 Currently learning backend web development with Js / Ts, POO, DDD, BDD, hexagonal architecture
 - 📫 Reach me on <strong>[linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)</strong>
 
 <!-- ###  :sound: Highlights 
