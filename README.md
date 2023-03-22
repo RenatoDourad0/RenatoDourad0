@@ -5,7 +5,7 @@ My name is Renato and I'm 25 years old. At the beginning of 2022 I made the deci
 
 #  🧗‍ 🥾  ☕  🪐  🐶 🛫
 
-- 📚 Currently learning backend web development with Ts, POO, DDD, BDD, hexagonal architecture
+- 📚 Currently learning Python
 - 📫 Reach me on <strong>[linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)</strong>
 
 <!-- ###  :sound: Highlights 
@@ -43,6 +43,8 @@ My name is Renato and I'm 25 years old. At the beginning of 2022 I made the deci
 ![Chai]( https://img.shields.io/badge/chai-%23323330?style=for-the-badge&logo=chai&logoColor=)
 ![Railway]( https://img.shields.io/badge/railway-%23323330?style=for-the-badge&logo=railway&logoColor=)
 ![MongoDB]( https://img.shields.io/badge/mongodb-%23323330?style=for-the-badge&logo=mongodb&logoColor=)
+<br />
+![Python]( https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=)
 
   <!--
   Jest
