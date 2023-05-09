@@ -2,9 +2,11 @@
 
 <strong>
 Seja bem vindo(a)!
+<br>
 Fiz uma transição de carreira para o campo da tecnologia após trabalhar no mercado imobiliário e empreender na área alimentícia.
-Em 2023 completei o curso de desenvolvimento web da Trybe, aonde adquiri habilidades em front e backend, utilizando principalmente Typescript, Python, React, Express, Git, Docker e MySql. Também aprendi sobre algoritmos e padrões de design, estruturas de dados, programação orientada a objetos, desenvolvimento orientado a testes e princípios SOLID. 
-Sou uma pessoa curiosa e estou sempre em busca de novas habilidades e tecnologias para acompanhar a evolução constante do mercado.
+Em 2023 completei o curso de desenvolvimento web da Trybe, aonde adquiri habilidades em front e backend, utilizando principalmente Typescript, Python, React, Express, Git, Docker e MySql.
+<br>
+Também aprendi sobre algoritmos e padrões de design, estruturas de dados, programação orientada a objetos, desenvolvimento orientado a testes e princípios SOLID.
 </strong>
 
 #  🧗‍ 🥾  ☕  🪐  🐶 🛫
