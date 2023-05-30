@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 <strong>
 Seja bem vindo(a)!
@@ -11,8 +11,8 @@ Também aprendi sobre algoritmos e padrões de design, estruturas de dados, prog
 
 #  🧗‍ 🥾  ☕  🪐  🐶 🛫
 
-- 📚 Currently learning Python
-- 📫 Reach me on <strong>[linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)</strong>
+- 📚 Atualmente estudando Java
+- 📫 Me encontre no <strong>[linkedin](http://www.linkedin.com/in/renato-dourado-b1b301112)</strong>
 
 <!-- ###  :sound: Highlights 
   - [Irecipe](https://github.com/RenatoDourad0/Project_Irecipe)
